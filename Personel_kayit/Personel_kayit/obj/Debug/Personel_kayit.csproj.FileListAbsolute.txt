@@ -1,0 +1,13 @@
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe.config
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.pdb
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csprojAssemblyReference.cache
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.Properties.Resources.resources
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.GenerateResource.cache
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.CoreCompileInputs.cache
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.exe
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.pdb
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.Frmistatistik.resources
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmAnaForm.resources
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGrafikler.resources
+C:\Users\Noname\Desktop\C# KURSU DÖKÜMANLARIM\07.07.2020\Personel_kayit\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGiris.resources
